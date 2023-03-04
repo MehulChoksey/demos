@@ -1,3 +1,3 @@
-# demos
+# Demos
 
 Demo app only
